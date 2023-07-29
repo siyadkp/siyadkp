@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I am Funny 😎**
 
 <!-- Socials -->
-<h2 align="center">🌐 Socials:</h2>
+<h2 align="left">🌐 Socials:</h2>
 <p align="center">
   <a href="https://behance.net/siyadkp"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance"></a>
   <a href="https://facebook.com/siyadkp"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
@@ -64,5 +64,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyadkp&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=siyadkp&icon=0&color=0)](https://visitcount.itsvg.in)
